@@ -1,0 +1,26 @@
+<lessonTitle>
+	HTML5 Mini Tutorial pt. 2
+</lessonTitle>
+<lesson>
+<entry>
+<entryTitle>How do you comment in an HTML5 document?</entryTitle>
+<paragraph>Comments start with &lt;!-- and end with --&gt;.</paragraph>
+</entry>
+<entry>
+<entryTitle>What are start tags and end tags?</entryTitle>
+<paragraph>
+HTML5 documents delimit most elements with a start tag
+and end tag.
+A start tag consists of the element name in angle brackets
+For example, &lt;html&gt; <br>
+An end tag consists of the element name preceded by a
+forward slash (/) in angle brackets
+<br>For example, &lt;/html&gt;
+<br>There are several so-called "void elements" that do not
+have end tags.
+<br>Many start tags have attributes that provide additional
+information about an element, which browsers use to
+determine how to process the element. 
+</paragraph>
+</entry>
+</lesson>

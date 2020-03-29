@@ -1,0 +1,40 @@
+<lessonTitle>
+	CSS3 Mini Tutorial pt. 1
+</lessonTitle>
+<lesson>
+<entry>
+<entryTitle>What new features have been introduced in CSS3?</entryTitle>
+<paragraph>New Combinator
+<br>New CSS Selectors
+<br>New Pseudo-elements
+<br>New Style properties  
+</paragraph>
+</entry>
+<entry>
+<entryTitle>What are text shadows? How do you add shadows to text in your HTML5 documents?</entryTitle>
+<paragraph>
+The CSS3 text-shadow property makes it easy to
+add a text shadow effect to any text (Fig. 5.1).
+<br>The text-shadow property has four values which
+represent:
+</paragraph>
+<unorderedList>
+<item>Horizontal offset of the shadow—the number of pixels that
+the text-shadow will appear to the left or the right of the
+text. A negative value moves the text-shadow to the left; a
+positive value moves it to the right.
+</item>
+<item>Vertical offset of the shadow—the number of pixels that the
+text-shadow will be shifted up or down from the text. A
+negative value moves the shadow up, whereas a positive
+value moves it down.
+</item>
+<item>blur radius—the blur (in pixels) of the shadow. A blurradius
+of 0px would result in a shadow with a sharp edge
+(no blur). The greater the value, the greater the blurring of
+the edges.</item>
+<item>color—determines the color of the text-shadow.
+</item>
+</unorderedList> 
+</entry>
+</lesson>

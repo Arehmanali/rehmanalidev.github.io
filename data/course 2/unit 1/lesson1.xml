@@ -1,0 +1,26 @@
+<lessonTitle>
+	Javascript Mini Tutorial pt. 1
+</lessonTitle>
+<lesson>
+<entry>
+<entryTitle>How do you embed JavaScript in an HTML document?</entryTitle>
+<paragraph> JavaScript code is typically placed in a
+separate file, then included in the HTML5
+document that uses the script.
+<br>This makes the code more reusable, because
+it can be included into any HTML5
+document -as is the case with the many
+JavaScript libraries used in professional web
+development today.   
+</paragraph>
+</entry>
+<entry>
+<entryTitle>What does the DOM in JavaScript refer to?</entryTitle>
+<paragraph>
+Browser's document object model represents the HTML5
+document currently being displayed in the browser
+<br>Allows a you to specify HTML5 text to be displayed in the HTML5
+document
+</paragraph>
+</entry>
+</lesson>

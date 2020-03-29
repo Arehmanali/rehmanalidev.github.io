@@ -1,0 +1,42 @@
+<lessonTitle>
+	CSS3 Mini Tutorial pt. 2
+</lessonTitle>
+<lesson>
+<entry>
+<entryTitle>To what elements can you add rounder corners? How?</entryTitle>
+<paragraph>With the CSS border-radius property, you can give any element "rounded corners".</paragraph>
+<unorderedList>
+<item>For the first rectangle, we set the border-radius to 15px.
+This adds slightly rounded corners to the rectangle.
+</item>
+<item>For the second rectangle, we increase the border-radius to
+50px, making the left and right sides completely round.
+</item>
+<item>Any border-radius value greater than half of the shortest
+side length produces a completely round end.
+</item>
+<item>You can also specify the radius for each corner with bordertop-left-radius,
+border-top-right-radius, borderbottom-left-radius
+and border-bottom-right-radius.
+</item>
+</unorderedList>
+</entry>
+<entry>
+<entryTitle>What new ways can you use to express colors in CSS3? How?</entryTitle>
+<paragraph>
+CSS3 allows you to express color in several ways in addition
+to standard color names (such as Aqua) or hexadecimal RGB
+values (such as #00FFFF for Aqua).
+</paragraph>
+<unorderedList>
+<item>RGB (Red, Green, Blue) or RGBA (Red, Green, Blue, Alpha)
+gives you greater control over the exact colors in your web
+pages.
+</item>
+<item>CSS3 also allows you to express color using HSL (hue,
+saturation, lightness) or HSLA (hue, saturation, lightness,
+alpha) values. 
+</item>
+</unorderedList>
+</entry>
+</lesson>

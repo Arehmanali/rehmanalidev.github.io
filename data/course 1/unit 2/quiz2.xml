@@ -1,0 +1,23 @@
+<quiz>
+<quizTitle>Lesson 2</quizTitle>
+<questions>
+	<question>
+  		<theQuestion>How do you comment in an HTML5 document?</theQuestion>
+  		<answers>
+	  		<answer questionNumber='4' isCorrect='false'>By using //comment here</answer>
+	  		<answer questionNumber='4' isCorrect='true'>By using &lt;!-- comment here -- &gt;</answer>
+	  		<answer questionNumber='4' isCorrect='false'>By using /*comment here*/</answer>
+	  		<answer questionNumber='4' isCorrect='false'>You don't need any special characters to comment, you can just write it in the document.</answer>
+	  	</answers>
+  	</question>
+	<question>
+  		<theQuestion>How is an end tag different from a start tag?</theQuestion>
+  		<answers>
+	  		<answer questionNumber='2' isCorrect='true'>An end tag has a forward slash before the tag name.</answer>
+	  		<answer questionNumber='2' isCorrect='false'>An end tag is only found at the very end of the HTML document.</answer>
+	  		<answer questionNumber='2' isCorrect='false'>Start tags have the word 'start' in them and end tags have the word 'end' in them.</answer>
+	  		<answer questionNumber='2' isCorrect='false'>An end tag is used to end and HTML statement, it uses a backslash to differentiate from a start tag.</answer>
+	  	</answers>
+  	</question>
+	</questions>
+</quiz>

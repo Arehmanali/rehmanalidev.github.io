@@ -1,0 +1,23 @@
+<quiz>
+<quizTitle>Lesson 1</quizTitle>
+<questions>
+	<question>
+  		<theQuestion>What does web server do?</theQuestion>
+  		<answers>
+	  		<answer questionNumber='1' isCorrect='false'>A web server runs on client computers to process your requests.</answer>
+	  		<answer questionNumber='1' isCorrect='false'>A web server serves food and drink on the web.</answer>
+	  		<answer questionNumber='1' isCorrect='true'>A web server responds to client requests.</answer>
+	  		<answer questionNumber='1' isCorrect='false'>Processes requests in a LIFO order.</answer>
+	  	</answers>
+  	</question>
+	<question>
+  		<theQuestion>How do a web server and a client communicate?</theQuestion>
+  		<answers>
+	  		<answer questionNumber='2' isCorrect='true'>Using the platform-independent Hypertext Transfer Protocol (HTTP).</answer>
+	  		<answer questionNumber='2' isCorrect='false'>Using PHP.</answer>
+	  		<answer questionNumber='2' isCorrect='false'>Using smoke signals.</answer>
+	  		<answer questionNumber='2' isCorrect='false'>Using a carrier pigeon.</answer>
+	  	</answers>
+  	</question>
+	</questions>
+</quiz>

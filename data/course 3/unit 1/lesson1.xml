@@ -1,0 +1,17 @@
+<lessonTitle>
+	XML pt. 1
+</lessonTitle>
+<lesson>
+<entry>
+<entryTitle>What is XML? For what purpose was it developed?</entryTitle>
+<paragraph>XML is a portable, widely supported, open
+(i.e., nonproprietary) technology for data
+storage and exchange 
+<br>XML permits document authors to create markup for virtually
+any type of information
+<br>XML describes data in a way that human beings can
+understand and computers can process.
+<br>XML was developed to describe data and to focalize on what the data represent. 
+</paragraph>
+</entry>
+</lesson>

@@ -1,0 +1,23 @@
+<quiz>
+<quizTitle>Lesson 1</quizTitle>
+<questions>
+	<question>
+  		<theQuestion>Where can you access detailed information about the CSSStyleDeclaration?</theQuestion>
+  		<answers>
+	  		<answer questionNumber='1' isCorrect='false'>At CSSStyleDeclaration.com</answer>
+	  		<answer questionNumber='1' isCorrect='false'>In the documentation of Notepad++</answer>
+	  		<answer questionNumber='1' isCorrect='false'>Written in the dictionary, somewhere near the back.</answer>
+	  		<answer questionNumber='1' isCorrect='true'>W3C.</answer>
+	  	</answers>
+  	</question>
+	<question>
+  		<theQuestion>What does element.style return?</theQuestion>
+  		<answers>
+	  		<answer questionNumber='2' isCorrect='false'>A string.</answer>
+	  		<answer questionNumber='2' isCorrect='true'>An object.</answer>
+	  		<answer questionNumber='2' isCorrect='false'>An integer.</answer>
+	  		<answer questionNumber='2' isCorrect='false'>A function.</answer>
+	  	</answers>
+  	</question>
+	</questions>
+</quiz>

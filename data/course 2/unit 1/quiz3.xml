@@ -1,0 +1,23 @@
+<quiz>
+<quizTitle>Unit 2</quizTitle>
+<questions>
+	<question>
+  		<theQuestion>What data types can you use with Javascript?</theQuestion>
+  		<answers>
+	  		<answer questionNumber='1' isCorrect='false'>Address, Phone Number, GPS Location.</answer>
+	  		<answer questionNumber='1' isCorrect='false'>Number, Non-Number, Letter, Non-letter.</answer>
+	  		<answer questionNumber='1' isCorrect='true'>Number, Boolean, Object. </answer>
+	  		<answer questionNumber='1' isCorrect='false'>String, Defined, Non-Defined.</answer>
+	  	</answers>
+  	</question>
+	<question>
+  		<theQuestion>How do you define variables in JavaScript</theQuestion>
+  		<answers>
+	  		<answer questionNumber='2' isCorrect='false'>By using data types (ie. int, double, String)</answer>
+	  		<answer questionNumber='2' isCorrect='true'>By using the keyword 'var'</answer>
+	  		<answer questionNumber='2' isCorrect='false'>You don't need to define a variable, you just name it.</answer>
+	  		<answer questionNumber='2' isCorrect='false'>By using the keyword 'variable'</answer>
+	  	</answers>
+  	</question>
+	</questions>
+</quiz>

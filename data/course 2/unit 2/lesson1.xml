@@ -1,0 +1,33 @@
+<lessonTitle>
+	Javascript Mini Tutorial pt. 3
+</lessonTitle>
+<lesson>
+<entry>
+<entryTitle>How are arrays created and used in JavaScript? How do you initialize an array?</entryTitle>
+<paragraph>JavaScript arrays are Array objects.
+<br>You use the new operator to create an array
+and to specify the number of elements in an
+array.
+<br>
+Arrays can be created using a comma separated
+initializer list enclosed in square
+brackets ([])
+<br>The array's size is determined by the number of
+values in the initializer list.
+</paragraph>
+</entry>
+<entry>
+<entryTitle>What is a string in JavaScript?</entryTitle>
+<paragraph>
+A string is a series of characters treated as a single
+unit
+<br>A string may include letters, digits and various
+special characters, such as +, -, *, /, and $
+<br>JavaScript supports Unicode, which represents a
+large portion of the world's languages
+<br>String literals or string constants are written as a
+sequence of characters in double or single
+quotation marks 
+</paragraph>
+</entry>
+</lesson>

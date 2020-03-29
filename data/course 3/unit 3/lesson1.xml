@@ -1,0 +1,37 @@
+<lessonTitle>
+	Unit 3: AJAX
+</lessonTitle>
+<entry>
+<entryTitle>What does Ajax stand for?</entryTitle>
+<paragraph>Asynchronous JavaScript and XML</paragraph>
+</entry>
+<entry>
+<entryTitle>What is raw Ajax?</entryTitle>
+<paragraph>"Raw" Ajax uses JavaScript to send asynchronous requests to
+the server, then updates the page using the DOM
+<br>When writing "raw" Ajax you need to deal directly with crossbrowser
+portability issues, making it impractical for
+developing large-scale applications
+</paragraph>
+</entry>
+<entry>
+<entryTitle>What is the most important JavaScript object in the world of Ajax?</entryTitle>
+<paragraph>XMLHttpRequest
+<br>The Ajax component that manages interaction with the server
+<br>Commonly abbreviated as XHR. 
+</paragraph>
+</entry>
+<entry>
+<entryTitle>What are asynchronous requests?</entryTitle>
+<paragraph>Client creates an XMLHttpRequest object to manage a request
+<br>XMLHttpRequest object sends the request to and awaits the response
+from the server
+<br>Requests are asynchronous, allowing the user to continue interacting with
+the application while the server processes the request concurrently
+<br>When the server responds, the XMLHttpRequest object that issued the
+request invokes a callback function, which typically uses partial page
+updates to display the returned data in the existing web page without
+reloading the entire page
+</paragraph>
+</entry>
+</lesson>

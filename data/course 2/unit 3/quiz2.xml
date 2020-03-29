@@ -1,0 +1,23 @@
+<quiz>
+<quizTitle>Lesson 1</quizTitle>
+<questions>
+	<question>
+  		<theQuestion>What are JavaScript events?</theQuestion>
+  		<answers>
+	  		<answer questionNumber='5' isCorrect='false'>Annual parties hosted by the creators of JavaScript.</answer>
+	  		<answer questionNumber='5' isCorrect='false'>An error.</answer>
+	  		<answer questionNumber='5' isCorrect='true'>They allow scripts to respond to user interaction.</answer>
+	  		<answer questionNumber='5' isCorrect='false'>User interactions that cannot be used to modify the page.</answer>
+	  	</answers>
+  	</question>
+	<question>
+  		<theQuestion>What is the onclick event?</theQuestion>
+  		<answers>
+	  		<answer questionNumber='6' isCorrect='true'>Whenever the user clicks their mouse a script can respond.</answer>
+	  		<answer questionNumber='6' isCorrect='false'>Whenever a user presses a button on their keyboard the page changes.</answer>
+	  		<answer questionNumber='6' isCorrect='false'>A party hosted by tech elites to discuss mouse technology.</answer>
+	  		<answer questionNumber='6' isCorrect='false'>An event that is always responded to by JavaScript.</answer>
+	  	</answers>
+  	</question>
+	</questions>
+</quiz>

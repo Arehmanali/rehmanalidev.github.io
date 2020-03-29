@@ -1,0 +1,15 @@
+<lessonTitle>
+	Javascript Mini Tutorial pt. 9
+</lessonTitle>
+<lesson>
+<entry>
+<entryTitle>What is event bubbling in dynamic HTML?</entryTitle>
+<paragraph>The process whereby events fired on child elements
+"bubble" up to their parent elements
+<br>When an event is fired on an element, it is first
+delivered to the element's event handler (if any),
+then to the parent element's event handler (if any).
+To stop the bubbling and prevent handlers on the current element from running, there's a method event.stopImmediatePropagation() .
+</paragraph>
+</entry>
+</lesson>

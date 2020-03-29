@@ -1,0 +1,21 @@
+<lessonTitle>
+	XML pt. 3
+</lessonTitle>
+<lesson>
+<entry>
+<entryTitle>Is XML case sensitive? What should an XML document start with?</entryTitle>
+<paragraph>
+XML is case sensitive, therefor you must keep this in mind when creating tags.
+<br>An XML document begins with an optional XML declaration,
+which identifies the document as an XML document. The
+version attribute specifies the version of XML syntax used in
+the document. 
+</paragraph>
+</entry>
+<entry>
+<entryTitle>What is a root element of an XML document?</entryTitle>
+<paragraph>The root element of an XML document encompasses all its
+other elements 
+</paragraph>
+</entry>
+</lesson>

@@ -1,0 +1,23 @@
+<quiz>
+<quizTitle>Lesson 1</quizTitle>
+<questions>
+	<question>
+  		<theQuestion>What declaration is required in an HTML5 document?</theQuestion>
+  		<answers>
+	  		<answer questionNumber='3' isCorrect='false'>&lt;!HTML5&gt;</answer>
+	  		<answer questionNumber='3' isCorrect='false'>&lt;!HTML&gt;</answer>
+	  		<answer questionNumber='3' isCorrect='false'>&lt;!DOCTYPE&gt;</answer>
+	  		<answer questionNumber='3' isCorrect='true'>&lt;!DOCTYPE html&gt;</answer>
+	  	</answers>
+  	</question>
+	<question>
+  		<theQuestion>What is HTML used for?</theQuestion>
+  		<answers>
+	  		<answer questionNumber='2' isCorrect='false'>To communicate with a database.</answer>
+	  		<answer questionNumber='2' isCorrect='false'>To print data in the console.</answer>
+	  		<answer questionNumber='2' isCorrect='true'>Provide structure to web pages.</answer>
+	  		<answer questionNumber='2' isCorrect='false'>Calculate what 2 + 2 is.</answer>
+	  	</answers>
+  	</question>
+	</questions>
+</quiz>

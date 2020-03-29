@@ -1,0 +1,23 @@
+<quiz>
+	<quizTitle>Lesson 2</quizTitle>
+	<questions>
+		<question>
+			<theQuestion>What does XML stand for?</theQuestion>
+			<answers>
+				<answer questionNumber='1' isCorrect='false'>Extended Markup Language</answer>
+				<answer questionNumber='1' isCorrect='false'>Exterior Modeling Linguistics</answer>
+				<answer questionNumber='1' isCorrect='false'>Extended Modeling Language</answer>
+				<answer questionNumber='1' isCorrect='true'>Extensible Markup Language</answer>
+			</answers>
+		</question>
+		<question>
+			<theQuestion>Are XML tage predefined?</theQuestion>
+			<answers>
+				<answer questionNumber='2' isCorrect='true'>No, users must define their own tags. XML is an intuitive language.</answer>
+				<answer questionNumber='2' isCorrect='false'>No, but users must make their tags as vague as possible so hackers cannot take over the web page.</answer>
+				<answer questionNumber='2' isCorrect='false'>Yes, the W3C predefines all XML tags.</answer>
+				<answer questionNumber='2' isCorrect='false'>Yes, Scott Tanenbaum, the creator of XML has predefined all tags and they must be used otherwise you will generate errors!</answer>
+			</answers>
+		</question>
+	</questions>
+</quiz>

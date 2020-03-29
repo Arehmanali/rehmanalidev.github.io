@@ -1,0 +1,28 @@
+<lessonTitle>
+	Web Servers Mini Tutorial pt. 2
+</lessonTitle>
+<lesson>
+<entry>
+<entryTitle>What web servers are available and where you can download a web server from the Web?</entryTitle>
+<paragraph>
+The Apache HTTP Server, maintained by the Apache Software
+Foundation, is currently the most popular web server. It's open source
+software that runs on UNIX, Linux, Mac OS X, Windows and numerous
+other platforms.
+MySQL is the most popular open-source database management system.
+It, too, runs on Linux, Mac OS X and Windows.
+The Apache HTTP Server, MySQL database server and PHP can each be
+downloaded and installed separately, but this also requires additional
+configuration on your part.
+For simplicity, we'll use the XAMPP integrated installer provided by the
+Apache Friends website (www.apachefriends.org).
+Go to <link source='http://www.apachefriends.org/en/xampp.html'>XAMPP</link>
+Choose the installer for your platform. Carefully follow the provided
+installation instructions and be sure to read the entire installation page
+for your platform!
+If you'd prefer to use PHP with Microsoft's IIS Express and SQL Server
+Express, you can use their Web Platform Installer to set up and configure
+PHP: <link source='http://www.microsoft.com/web/platform/phponwindows.aspx'>PHP on Windows</link>
+</paragraph>
+</entry>
+</lesson>

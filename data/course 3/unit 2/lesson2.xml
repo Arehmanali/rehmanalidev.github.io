@@ -1,0 +1,22 @@
+<courseTitle>
+	XML pt. 5
+</courseTitle>
+<lesson>
+<entry>
+<entryTitle>What is XML Schema? What led to the development of schemas?</entryTitle>
+<paragraph>Schemas use use XML syntax not EBNF grammar
+<br>Schemas were developed in conjunction with the W3C to standardize validation of XML documents.
+<br>XML Schema documents can specify what type of data (e.g., numeric, text) an element
+can contain 
+<br>Two categories of types exist in XML Schema: simple types
+and complex types.
+</paragraph>
+</entry>
+<entry>
+<entryTitle>What are the main advantages of XML Schema over DTDs?</entryTitle>
+<paragraph>XML schema's use XML-based syntax
+<br>Are more verbose than DTD's which make them easier to comprehend.
+<br>Schema allows you to create and use custom data types.
+</paragraph>
+</entry>
+</lesson>

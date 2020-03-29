@@ -1,0 +1,23 @@
+<quiz>
+<quizTitle>Lesson 1</quizTitle>
+<questions>
+	<question>
+  		<theQuestion>What is the best practice to embed JavaScript into and HTML document?</theQuestion>
+  		<answers>
+	  		<answer questionNumber='1' isCorrect='false'>Put the code in between script tags.</answer>
+	  		<answer questionNumber='1' isCorrect='false'>Link to the external code file with an a href tag.</answer>
+	  		<answer questionNumber='1' isCorrect='false'>Put the code in the head tag. </answer>
+	  		<answer questionNumber='1' isCorrect='true'>Link to the external code file using script tags.</answer>
+	  	</answers>
+  	</question>
+	<question>
+  		<theQuestion>What does DOM stand for?</theQuestion>
+  		<answers>
+	  		<answer questionNumber='4' isCorrect='false'>Document Online Method</answer>
+	  		<answer questionNumber='4' isCorrect='false'>Download Open Model</answer>
+	  		<answer questionNumber='4' isCorrect='false'>Document Online Model</answer>
+	  		<answer questionNumber='4' isCorrect='true'>Document Object Model</answer>
+	  	</answers>
+  	</question>
+	</questions>
+</quiz>

@@ -1,0 +1,23 @@
+<quiz>
+	<quizTitle>Lesson 2</quizTitle>
+	<questions>
+		<question>
+			<theQuestion>What is a main advantage of XML Schemas over DTD's</theQuestion>
+			<answers>
+				<answer questionNumber='5' isCorrect='false'>XML Schemas are superior in every way.</answer>
+				<answer questionNumber='5' isCorrect='true'>XML Schemas allow you to use data types.</answer>
+				<answer questionNumber='5' isCorrect='false'>XML Schemas are newer, and are therefor better.</answer>
+				<answer questionNumber='5' isCorrect='false'>XML Schemas allow you to style XML data.</answer>
+			</answers>
+		</question>
+		<question>
+			<theQuestion>Who were XML schema's developed in conjunction with?</theQuestion>
+			<answers>
+				<answer questionNumber='6' isCorrect='false'>The Easter Bunny.</answer>
+				<answer questionNumber='6' isCorrect='false'>Bill Gates.</answer>
+				<answer questionNumber='6' isCorrect='true'>The W3C.</answer>
+				<answer questionNumber='6' isCorrect='false'>Scott Tanenbaum, the creator of XML.</answer>
+			</answers>
+		</question>
+	</questions>
+</quiz>

@@ -1,0 +1,34 @@
+<lessonTitle>
+	Javascript Mini Tutorial pt. 5
+</lessonTitle>
+<lesson>
+<entry>
+<entryTitle>What are objects in Document Object Model (DOM)?</entryTitle>
+<paragraph>The Document Object Model gives you
+scripting access to all the elements on a web
+page. Using JavaScript, you can create, modify
+and remove elements in the page
+dynamically. </paragraph>
+</entry>
+<entry>
+<entryTitle>What are DOM collections?</entryTitle>
+<paragraph>DOM has collections - groups of related objects on
+a page.
+</paragraph>
+<unorderedList>
+<item>DOM collections are accessed as properties of DOM
+objects such as the document object or a DOM
+node
+</item>
+<item>The document object has properties containing the
+images collection, links collection, forms
+collection and anchors collection.
+</item>
+<item>Contain all the elements of the corresponding type on the page.
+</item>
+<item>The collection's length property specifies the
+number of items in the collection.
+</item>
+</unorderedList>
+</entry>
+</lesson>

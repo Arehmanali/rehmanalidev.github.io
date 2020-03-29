@@ -1,0 +1,19 @@
+<lessonTitle>
+	HTML5 Mini Tutorial pt. 1
+</lessonTitle>
+<lesson>
+<entry>
+<entryTitle>How is HTML5 different from programming languages such as C++, C, C#, Visual Basic and Java?</entryTitle>
+<paragraph>HTML5 is a markup language that specifies the structure and
+content of documents that are displayed in web browsers.  
+</paragraph>
+</entry>
+<entry>
+<entryTitle>What elements and/or declarations are required in an HTML5 document?</entryTitle>
+<paragraph>
+The document type declaration &lt;!DOCTYPE html&gt; is
+required in HTML5 documents so that
+browsers render the page in standards mode.
+</paragraph>
+</entry>
+</lesson>

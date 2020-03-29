@@ -1,0 +1,29 @@
+<lessonTitle>
+	Javascript Mini Tutorial pt. 4
+</lessonTitle>
+<lesson>
+<entry>
+<entryTitle>What methods and data members does the document object have?</entryTitle>
+<paragraph>Provided by the browser and allows JavaScript code
+to manipulate the current document in the browser
+</paragraph>
+<unorderedList>
+<item>
+getElementById( id )
+<unorderedList>
+<item>
+Returns the HTML5 element whose id attribute matches id.
+</item>
+</unorderedList>
+</item>
+<item>
+getElementByTagName( tagName )
+<unorderedList>
+<item>
+Returns an array of the HTML5 elements with the specified tagName.
+</item>
+</unorderedList>
+</item>
+</unorderedList>
+</entry>
+</lesson>

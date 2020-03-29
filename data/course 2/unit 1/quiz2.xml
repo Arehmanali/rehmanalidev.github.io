@@ -1,0 +1,23 @@
+<quiz>
+<quizTitle>Unit 2</quizTitle>
+<questions>
+	<question>
+  		<theQuestion>How do you get input from the user using JavaScript?</theQuestion>
+  		<answers>
+	  		<answer questionNumber='1' isCorrect='false'>Phone the user using their supplied phone number and ask them for input.</answer>
+	  		<answer questionNumber='1' isCorrect='false'>Use CSS to communicate with Javascript to get input from user.</answer>
+	  		<answer questionNumber='1' isCorrect='false'>Send a letter to the users address with a paid return envelope. </answer>
+	  		<answer questionNumber='1' isCorrect='true'>Use a prompt window.</answer>
+	  	</answers>
+  	</question>
+	<question>
+  		<theQuestion>What is the difference between writeln and write in JavaScript?</theQuestion>
+  		<answers>
+	  		<answer questionNumber='2' isCorrect='false'>write moves the cursor to the back of the document.</answer>
+	  		<answer questionNumber='2' isCorrect='true'> writeln positions the output cursor in the HTML5 document at the beginning of the next line after writing its argument</answer>
+	  		<answer questionNumber='2' isCorrect='false'>writeln writes linearly, write does not.</answer>
+	  		<answer questionNumber='2' isCorrect='false'>write prints in console while writeln does not.</answer>
+	  	</answers>
+  	</question>
+	</questions>
+</quiz>

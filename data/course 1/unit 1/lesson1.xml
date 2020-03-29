@@ -1,0 +1,22 @@
+<lessonTitle>
+	Web Servers Mini Tutorial pt. 1
+</lessonTitle>
+<lesson>
+<entry>
+<entryTitle>What does a web server do?</entryTitle>
+<paragraph>A web server responds to client requests (typically
+from a web browser) by providing resources such
+as HTML documents. When users enter a Uniform
+Resource Locator (URL) address, such as
+www.deitel.com, into a web browser, they're
+requesting a specific document from a web server.
+The web server maps the URL to a resource on the
+server (or to a file on the server's network) and
+returns the requested resource to the client. 
+A web server and a client communicate using the
+platform-independent Hypertext Transfer Protocol
+(HTTP), a protocol for transferring requests and
+files over the Internet or an intranet. 
+</paragraph>
+</entry>
+</lesson>

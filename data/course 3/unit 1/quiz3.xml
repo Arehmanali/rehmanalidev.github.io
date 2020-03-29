@@ -1,0 +1,23 @@
+<quiz>
+	<quizTitle>Lesson 3</quizTitle>
+	<questions>
+		<question>
+			<theQuestion>Is XML case sensitive?</theQuestion>
+			<answers>
+				<answer questionNumber='1' isCorrect='false'>No, upper and lower case letter have no effect on XML tags.</answer>
+				<answer questionNumber='1' isCorrect='false'>Yes, but only when using to communicate with a database.</answer>
+				<answer questionNumber='1' isCorrect='false'>No, except in when running on a Macintosh computer.</answer>
+				<answer questionNumber='1' isCorrect='true'>Yes, XML is case sensitive, in all cases.</answer>
+			</answers>
+		</question>
+		<question>
+			<theQuestion>What is the root element of an XML document?</theQuestion>
+			<answers>
+				<answer questionNumber='2' isCorrect='true'>It is the element that encompasses all other elements.</answer>
+				<answer questionNumber='2' isCorrect='false'>It is the element that is found only at the end of the document.</answer>
+				<answer questionNumber='2' isCorrect='false'>It is the element that specifies the version of XML being used in the document.</answer>
+				<answer questionNumber='2' isCorrect='false'>It is always in uppercase, and is found at the beginning of the document.</answer>
+			</answers>
+		</question>
+	</questions>
+</quiz>

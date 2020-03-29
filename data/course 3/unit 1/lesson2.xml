@@ -1,0 +1,20 @@
+<lessonTitle>
+	XML pt. 2
+</lessonTitle>
+<lesson>
+<entry>
+<entryTitle>What are the main features of XML compared to HTML?</entryTitle>
+<unorderedList>
+<item>XML is the acronym from Extensible Markup Language (meta-language of noting/marking). XML is a
+ resembling language with HTML. It was developed for describing data.
+</item>
+<item>The XML tags are not pre-defined in XML. You will have to create tags according to your needs.
+XML is self descriptive.
+</item>
+<item>XML can store data separately from HTML.
+</item>
+<item>XML can be used as a format for exchanging information.
+</item>
+</unorderedList>
+</entry>
+</lesson>

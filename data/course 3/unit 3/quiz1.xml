@@ -1,0 +1,32 @@
+	<quiz>
+	<quizTitle>Lesson 3</quizTitle>
+	<questions>
+		<question>
+			<theQuestion>What is raw AJAX?</theQuestion>
+			<answers>
+				<answer questionNumber='5' isCorrect='false'>Uncooked AJAX.</answer>
+				<answer questionNumber='5' isCorrect='true'>"Raw" Ajax uses JavaScript to send asynchronous requests to the server, then updates the page using the DOM.</answer>
+				<answer questionNumber='5' isCorrect='false'>AJAX that has not been processed by an AJAX processor into its cooked state.</answer>
+				<answer questionNumber='5' isCorrect='false'>"Raw" AJAX is the healthier version of AJAX and complies with raw diet restrictions.</answer>
+			</answers>
+		</question>
+		<question>
+			<theQuestion>What does AJAX stand for?</theQuestion>
+			<answers>
+				<answer questionNumber='6' isCorrect='false'>A Journey Across A Xylophone</answer>
+				<answer questionNumber='6' isCorrect='false'>Alternative JavaScript And XML</answer>
+				<answer questionNumber='6' isCorrect='true'>Asynchronous JavaScript And XML</answer>
+				<answer questionNumber='6' isCorrect='false'>Asynchornous Java And XML</answer>
+			</answers>
+		</question>
+		<question>
+			<theQuestion>What is the most important JavaScript object in the world of AJAX?</theQuestion>
+			<answers>
+				<answer questionNumber='7' isCorrect='false'>Document Object Model</answer>
+				<answer questionNumber='7' isCorrect='false'>JavaScriptHttpRequest</answer>
+				<answer questionNumber='7' isCorrect='false'>XMLRequestHttp</answer>
+				<answer questionNumber='7' isCorrect='true'>XMLHttpRequest</answer>
+			</answers>
+		</question>
+	</questions>
+</quiz>

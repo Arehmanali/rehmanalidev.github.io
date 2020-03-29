@@ -1,0 +1,23 @@
+<quiz>
+	<quizTitle>Lesson 1</quizTitle>
+	<questions>
+		<question>
+			<theQuestion>What is a purpose of XML?</theQuestion>
+			<answers>
+				<answer questionNumber='1' isCorrect='false'>Used to calculate the circumference of a circle.</answer>
+				<answer questionNumber='1' isCorrect='false'>To translate English to Korean.</answer>
+				<answer questionNumber='1' isCorrect='false'>Language meant to be used by robots to communicate with one another.</answer>
+				<answer questionNumber='1' isCorrect='true'>XML describes data in a way that human beings can understand and computers can process.</answer>
+			</answers>
+		</question>
+		<question>
+			<theQuestion>What is another purpose of XML?</theQuestion>
+			<answers>
+				<answer questionNumber='2' isCorrect='true'>XML permits document authors to create markup for virtually any type of information.</answer>
+				<answer questionNumber='2' isCorrect='false'>XML was permits users to communicate directly with databases, allowing them to edit at will.</answer>
+				<answer questionNumber='2' isCorrect='false'>XML allows designers to create colourful graphics on web pages.</answer>
+				<answer questionNumber='2' isCorrect='false'>Simple, effective, but very expensive to use.</answer>
+			</answers>
+		</question>
+	</questions>
+</quiz>

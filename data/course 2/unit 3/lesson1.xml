@@ -1,0 +1,24 @@
+<lessonTitle>
+	Javascript Mini Tutorial pt. 7
+</lessonTitle>
+<lesson>
+<entry>
+<entryTitle>What are dynamic styles? How do you change the style of an element dynamically?</entryTitle>
+<paragraph>Through the DOM, you have access to a style object that describes the style of an element. 
+This style object is defined as a CSSStyleDeclaration; you can see a detailed explanation of this 
+at the W3C documentation of the CSSStyleDeclaration interface. The style object doesn't quite work 
+the same as some of the other properties defined in your HTML element. Unlike element.href or element.id,
+ which return strings, element.style returns an object. This means you cannot set the style by
+  assigning a string to element.style.
+<br>The style object has attributes that correspond to the different CSS properties we set. For example, style.color 
+returns the colour that element has set on it. By calling element.style.color = "red"; you can 
+apply the style change dynamically.
+<br><br>Example:
+<br>
+function colorElementRed(id) {
+  var el = document.getElementById(id);
+  el.style.color = "red";
+}
+</paragraph>
+</entry>
+</lesson>

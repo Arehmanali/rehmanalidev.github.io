@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE quiz>
+
+
+<part2:quiz 
+xmlns:part2="http://localhost:8088/part2/WebContent/" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://localhost:8088/part2/WebContent/
+					http://localhost:8088/part2/WebContent/quiz.xsd">
+<?xml-stylesheet type="text/xsl" 
+href="http://localhost:8088/part2/WebContent/quiz.xsl"?>
+<part2:quizTitle>Unit 3</part2:quizTitle>
+<part2:questions>
+	<part2:question qNmbr="1">
+  		<part2:theQuestion>What does XML stand for?</part2:theQuestion>
+  		<part2:answers>
+	  		<part2:answer correct="false">Extended Markup Language</part2:answer>
+	  		<part2:answer correct="false">Exterior Modeling Linguistics</part2:answer>
+	  		<part2:answer correct="false">Extended Modeling Language</part2:answer>
+	  		<part2:answer correct="true">Extensible Markup Language</part2:answer>
+	  	</part2:answers>
+  	</part2:question>
+	<part2:question qNmbr="2">
+  		<part2:theQuestion>What is the root element of an XML document?</part2:theQuestion>
+  		<part2:answers>
+	  		<part2:answer correct="true">It is the element that encompasses all other elements.</part2:answer>
+	  		<part2:answer correct="false">It is the element that is found only at the end of the document.</part2:answer>
+	  		<part2:answer correct="false">It is the element that specifies the version of XML being used in the document.</part2:answer>
+	  		<part2:answer correct="false">It is always in uppercase, and is found at the beginning of the document.</part2:answer>
+	  	</part2:answers>
+  	</part2:question>
+	<part2:question qNmbr="3">
+  		<part2:theQuestion>What is an XML namespace?</part2:theQuestion>
+  		<part2:answers>
+	  		<part2:answer correct="false">It is an external document that prevents naming collisions.</part2:answer>
+	  		<part2:answer correct="false">It is a list of the names of all developers that worked on that file.</part2:answer>
+	  		<part2:answer correct="true">It is a prefix used to prevent naming collisions.</part2:answer>
+	  		<part2:answer correct="false">It is a section within the XML document where you list your name.</part2:answer>
+	  	</part2:answers>
+  	</part2:question>
+	<part2:question qNmbr="4">
+  		<part2:theQuestion>How do you validate an XML document?</part2:theQuestion>
+  		<part2:answers>
+	  		<part2:answer correct="false">Google your entire document, the search engine will tell you if it is correct.</part2:answer>
+	  		<part2:answer correct="true">Use the W3C Validator.</part2:answer>
+	  		<part2:answer correct="false">If you believe in a higher power, ask them to look it over.</part2:answer>
+	  		<part2:answer correct="false">Use the W3X Online XML Validator.</part2:answer>
+	  	</part2:answers>
+  	</part2:question>
+	<part2:question qNmbr="5">
+  		<part2:theQuestion>What is a main advantage of XML Schemas over DTD's</part2:theQuestion>
+  		<part2:answers>
+	  		<part2:answer correct="false">XML Schemas are superior in every way.</part2:answer>
+	  		<part2:answer correct="true">XML Schemas allow you to use data types.</part2:answer>
+	  		<part2:answer correct="false">XML Schemas are newer, and are therefor better.</part2:answer>
+	  		<part2:answer correct="false">XML Schemas allow you to style XML data.</part2:answer>
+	  	</part2:answers>
+  	</part2:question>
+	<part2:question qNmbr="6">
+  		<part2:theQuestion>What does AJAX stand for?</part2:theQuestion>
+  		<part2:answers>
+	  		<part2:answer correct="false">A Journey Across A Xylophone</part2:answer>
+	  		<part2:answer correct="false">Alternative JavaScript And XML</part2:answer>
+	  		<part2:answer correct="true">Asynchronous JavaScript And XML</part2:answer>
+	  		<part2:answer correct="false">Asynchornous Java And XML</part2:answer>
+	  	</part2:answers>
+  	</part2:question>
+	<part2:question qNmbr="7">
+  		<part2:theQuestion>What is the most important JavaScript object in the world of AJAX?</part2:theQuestion>
+  		<part2:answers>
+	  		<part2:answer correct="false">Document Object Model</part2:answer>
+	  		<part2:answer correct="false">JavaScriptHttpRequest</part2:answer>
+	  		<part2:answer correct="false">XMLRequestHttp</part2:answer>
+	  		<part2:answer correct="true">XMLHttpRequest</part2:answer>
+	  	</part2:answers>
+  	</part2:question>
+</part2:questions>
+
+</part2:quiz>

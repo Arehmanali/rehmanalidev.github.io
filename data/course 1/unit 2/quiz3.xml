@@ -1,0 +1,23 @@
+<quiz>
+<quizTitle>Lesson 3</quizTitle>
+<questions>
+<question>
+  		<theQuestion>What heading elements does HTML5 provide?</theQuestion>
+  		<answers>
+	  		<answer questionNumber='5' isCorrect='false'>h0 through h6</answer>
+	  		<answer questionNumber='5' isCorrect='false'>h1 through h3</answer>
+	  		<answer questionNumber='5' isCorrect='false'>h1 through h5</answer>
+	  		<answer questionNumber='5' isCorrect='true'>h1 through h6</answer>
+	  	</answers>
+  	</question>
+	<question>
+  		<theQuestion>How can you validate an HTML document?</theQuestion>
+  		<answers>
+	  		<answer questionNumber='2' isCorrect='true'>Using the W3C Validation Service.</answer>
+	  		<answer questionNumber='2' isCorrect='false'>Ask your professor.</answer>
+	  		<answer questionNumber='2' isCorrect='false'>Submit your code in a Google search.</answer>
+	  		<answer questionNumber='2' isCorrect='false'>Check your HTML textbook.</answer>
+	  	</answers>
+  	</question>
+	</questions>
+</quiz>

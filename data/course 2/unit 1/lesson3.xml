@@ -1,0 +1,31 @@
+<lessonTitle>
+	Javascript Mini Tutorial pt. 3
+</lessonTitle>
+<lesson>
+<entry>
+<entryTitle>How do you define variables in JavaScript?</entryTitle>
+<paragraph>With the keyword 'var'.</paragraph>
+</entry>
+<entry>
+<entryTitle>What data types can you use in JavaScript?</entryTitle>
+<orderedList>
+<item>Boolean</item>
+<item>Null</item>
+<item>Undefined</item>
+<item>Number</item>
+<item>String</item>
+<item>Symbol</item>
+<item>Object</item>
+</orderedList>
+</entry>
+<entry>
+<entryTitle>What assignment, increment, and decrement operators are provided in JavaScript?</entryTitle>
+<orderedList>
+<item>A variable is assigned a value with an
+assignment statement, using the assignment
+operator, =</item>
+<item>A variable is incremented by one by using the operator, ++</item>
+<item>A variable is decremented by one by using the operator, --</item>
+</orderedList>
+</entry>
+</lesson>

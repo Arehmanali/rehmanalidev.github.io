@@ -1,0 +1,23 @@
+<quiz>
+<quizTitle>Lesson 3</quizTitle>
+<questions>
+<question>
+  		<theQuestion>What are DOM collections?</theQuestion>
+  		<answers>
+	  		<answer questionNumber='3' isCorrect='false'>A collection of dancing ornamental magpies.</answer>
+	  		<answer questionNumber='3' isCorrect='true'>Groups of related objects on a page</answer>
+	  		<answer questionNumber='3' isCorrect='false'>A collection of words in a web application.</answer>
+	  		<answer questionNumber='3' isCorrect='false'>A group of paragraphs in a database.</answer>
+	  	</answers>
+  	</question>
+	<question>
+  		<theQuestion>How do you access DOM collections?</theQuestion>
+  		<answers>
+	  		<answer questionNumber='1' isCorrect='true'>Accessed as properties of DOM objects.</answer>
+	  		<answer questionNumber='1' isCorrect='false'>Carefully.</answer>
+	  		<answer questionNumber='1' isCorrect='false'>Liberally.</answer>
+	  		<answer questionNumber='1' isCorrect='false'>Call the DOM and ask them.</answer>
+	  	</answers>
+  	</question>
+	</questions>
+</quiz>

@@ -1,0 +1,23 @@
+<quiz>
+<quizTitle>Lesson 2</quizTitle>
+<questions>
+	<question>
+  		<theQuestion>Using CSS how can you add round corner to an element?</theQuestion>
+  		<answers>
+	  		<answer questionNumber='6' isCorrect='false'>Use the border-radium attribute.</answer>
+	  		<answer questionNumber='6' isCorrect='false'>Use a round picture as a background for the element.</answer>
+	  		<answer questionNumber='6' isCorrect='true'>Use the border-radius attribute.</answer>
+	  		<answer questionNumber='6' isCorrect='false'>Use the rounded-border attribute.</answer>
+	  	</answers>
+  	</question>
+	<question>
+  		<theQuestion>What new ways can you express colour in CSS3?</theQuestion>
+  		<answers>
+	  		<answer questionNumber='7' isCorrect='true'>HSL and RGB/RGBA</answer>
+	  		<answer questionNumber='7' isCorrect='false'>Names of colours and Hex values of colours</answer>
+	  		<answer questionNumber='7' isCorrect='false'>RGB/RGBA and Hex values of colours</answer>
+	  		<answer questionNumber='7' isCorrect='false'>HSL and Hex values of colours</answer>
+	  	</answers>
+  	</question>
+	</questions>
+</quiz>

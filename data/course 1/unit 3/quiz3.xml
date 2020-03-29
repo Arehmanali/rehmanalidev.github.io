@@ -1,0 +1,23 @@
+<quiz>
+<quizTitle>Lesson 3</quizTitle>
+<questions>
+	<question>
+  		<theQuestion>Using CSS how can you use fonts that are not already on the users system?</theQuestion>
+  		<answers>
+	  		<answer questionNumber='6' isCorrect='false'>Don't use unpopular fonts.</answer>
+	  		<answer questionNumber='6' isCorrect='true'>Use a script.</answer>
+	  		<answer questionNumber='6' isCorrect='false'>Using the @font-face rule.</answer>
+	  		<answer questionNumber='6' isCorrect='false'>Provide a link for the user to install the font.</answer>
+	  	</answers>
+  	</question>
+	<question>
+  		<theQuestion>What are :nth-child selectors?</theQuestion>
+  		<answers>
+	  		<answer questionNumber='7' isCorrect='false'>Used to select the children of grand-elements in descending order.</answer>
+	  		<answer questionNumber='7' isCorrect='false'>Selects the nth child from the root element only.</answer>
+	  		<answer questionNumber='7' isCorrect='false'>A selector that selects the parents of child elements.</answer>
+	  		<answer questionNumber='7' isCorrect='true'>A selector used to select specific children of an element.</answer>
+	  	</answers>
+  	</question>
+	</questions>
+</quiz>

@@ -1,0 +1,27 @@
+<lessonTitle>
+	Javascript Mini Tutorial pt. 8
+</lessonTitle>
+<lesson>
+<entry>
+<entryTitle>What are JavaScript events?</entryTitle>
+<paragraph>Javascript events allow scripts to respond to user interactions and
+modify the page accordingly.
+<br>
+Events and event handling help make web applications more dynamic and interactive.
+</paragraph>
+</entry>
+<entry>
+<entryTitle>What are the onload, onclick, and onerror events?</entryTitle>
+<paragraph>The window object's load event fires when
+the window finishes loading successfully
+(i.e., all its children are loaded and all
+external files referenced by the page are
+loaded)
+<br>Every DOM element has a load event, but
+it's most commonly used on the window
+object.
+<br>The onclick event is triggered when the mouse is clicked.
+<br>The onerror event is triggered whenever there is an error loading an external file.
+</paragraph>
+</entry>
+</lesson>

@@ -1,0 +1,23 @@
+<quiz>
+<quizTitle>Lesson 1</quizTitle>
+<questions>
+<question>
+  		<theQuestion>How do you create and array object in JavaScript?</theQuestion>
+  		<answers>
+	  		<answer questionNumber='3' isCorrect='true'>Use the new operator</answer>
+	  		<answer questionNumber='3' isCorrect='false'>Use new array operator</answer>
+	  		<answer questionNumber='3' isCorrect='false'>Use data type and square brackets</answer>
+	  		<answer questionNumber='3' isCorrect='false'>Just use a name and square brackets</answer>
+	  	</answers>
+  	</question>
+	<question>
+  		<theQuestion>How do you create and array object in JavaScript?</theQuestion>
+  		<answers>
+	  		<answer questionNumber='3' isCorrect='true'>Use the new operator</answer>
+	  		<answer questionNumber='3' isCorrect='false'>Use new array operator</answer>
+	  		<answer questionNumber='3' isCorrect='false'>Use data type and square brackets</answer>
+	  		<answer questionNumber='3' isCorrect='false'>Just use a name and square brackets</answer>
+	  	</answers>
+  	</question>
+	</questions>
+</quiz>

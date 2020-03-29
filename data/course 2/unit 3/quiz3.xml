@@ -1,0 +1,23 @@
+<quiz>
+<quizTitle>Lesson 1</quizTitle>
+<questions>
+	<question>
+  		<theQuestion>What is event bubbling?</theQuestion>
+  		<answers>
+	  		<answer questionNumber='1' isCorrect='true'>The process whereby events fired on child elements "bubble" up to their parent elements.</answer>
+	  		<answer questionNumber='1' isCorrect='false'>The event when bubbles appear on the screen.</answer>
+	  		<answer questionNumber='1' isCorrect='false'>Events fired on child elements bubble down to their children.</answer>
+	  		<answer questionNumber='1' isCorrect='false'>An unwanted even that is not preventable.</answer>
+	  	</answers>
+  	</question>
+<question>
+  		<theQuestion>How do you stop event bubbling?</theQuestion>
+  		<answers>
+	  		<answer questionNumber='7' isCorrect='false'>Use the method stop.eventBubbling()</answer>
+	  		<answer questionNumber='7' isCorrect='false'>Turn the bubble machine off!</answer>
+	  		<answer questionNumber='7' isCorrect='true'>Use the method event.stopImmediatePropagation()</answer>
+	  		<answer questionNumber='7' isCorrect='false'>Use the method object.stopBubbling()</answer>
+	  	</answers>
+  	</question>
+	</questions>
+</quiz>

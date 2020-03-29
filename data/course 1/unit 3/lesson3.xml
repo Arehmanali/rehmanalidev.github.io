@@ -1,0 +1,38 @@
+<lessonTitle>
+	CSS3 Mini Tutorial pt. 3
+</lessonTitle>
+<lesson>
+<entry>
+<entryTitle>What is skew? How do you skew block-level elements with CSS3?</entryTitle>
+<paragraph>CSS3 transformations also allow you to skew block-level
+elements, slanting them at an angle either horizontally
+(skewX) or vertically (skewY).
+<br>We use the animation and transform properties to skew a
+rectangle and text horizontally by 45 degrees. </paragraph>
+</entry>
+<entry>
+<entryTitle>With CSS3, how can you use fonts for your web page if they are not already installed on the user’s system?</entryTitle>
+<paragraph>Using the @font-face rule, you can specify fonts for a
+web page, even if they’re not installed on the user's
+system.
+<br>You can use downloadable fonts to help ensure a
+uniform look across client sites. 
+</paragraph>
+</entry>
+<entry>
+<entryTitle>What are :nth-child selectors? What can they be used for?</entryTitle>
+<paragraph>In CSS3, you can use selectors to easily select
+elements to style based on their attributes.
+<br>We use :nth-child selectors to select each of the
+four div elements in the flexbox div to style.
+<br>div:nth-child(1) selects the div element that’s
+the first child of its parent and applies the
+background-color LightBlue.
+<br>Similarly, div:nth-child(2) selects the div
+element that’s the second child of its parent,
+div:nth-child(3) selects the third child of its
+parent, and div:nth-child(4) selects the fourth
+child of its parent—each applies a specified
+background-color.</paragraph>
+</entry>
+</lesson>

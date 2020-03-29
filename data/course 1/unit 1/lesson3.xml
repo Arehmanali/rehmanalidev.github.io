@@ -1,0 +1,20 @@
+<lessonTitle>
+	Web Servers Mini Tutorial pt. 3
+</lessonTitle>
+<lesson>
+<entry>
+<entryTitle>What are the differences between the Apache and IIS web servers?</entryTitle>
+<orderedList>
+	<item>Apache is free while IIS is packaged with Windows.</item>
+	<item>IIS only runs on Windows while Apache can run on almost any OS including UNIX, Apple's OS X, and on most Linux Distributions.</item>
+	<item>ASPX runs only in IIS.</item>
+	<item>IIS has a dedicated staff to answer most problems while support for Apache comes from the community itself.</item>
+	<item>IIS is optimized for Windows because they are from the same company.</item>
+	<item>The Windows OS is prone to security risks.</item>
+</orderedList>
+</entry>
+<entry>
+<entryTitle>What is the latest version of Apache?</entryTitle>
+<paragraph>Apache httpd 2.4.34</paragraph>
+</entry>
+</lesson>

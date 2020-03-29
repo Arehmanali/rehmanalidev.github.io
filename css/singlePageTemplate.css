@@ -1,0 +1,284 @@
+@charset "UTF-8";
+/* Body */
+body {
+	font-family: source-sans-pro;
+	background-color: #f2f2f2;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	font-style: normal;
+	font-weight: 200;
+}
+/* Container */
+.container {
+	width: 1385px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 1000px;
+	background-color: #B3B3B3;
+}
+.container .left {
+	width: 37%;
+	float: left;
+	padding: 15px;
+	margin-right: 85px;
+	border-left:thick dashed #0E6D8F;
+}
+.container .right {
+	width: 37%;
+	padding: 15px;
+	float: left;
+	margin-left: 125px;
+}
+
+.course_wrapper {
+	width: 85.5%;
+	margin: 0 auto;
+	height: 86%;
+	float:right;
+	background-color: aliceblue;
+	
+}
+
+.course {
+	border: 1px solid #6ABACF;
+	border-radius: 5px;
+	background-color: aliceblue;
+	margin-top: 10px;
+	padding: 10px;
+}
+
+.course_content {
+	height: 100%;
+	overflow-y: auto;
+	padding-left: 30px;
+}
+
+.unit_descriptions {
+	margin-top: 60px;
+	margin-left: 60px;
+}
+
+#login {
+	text-align: right
+}
+
+#quizResults {
+	display: none;
+    height: 50px;
+    width: 340px;
+    padding-top: 20px;
+    border: 1px solid black;
+    transform: translate(400px, 0px);
+    font-weight: bold;
+}
+
+/* Navigation */
+header {
+	width: 100%;
+	height: 5%;
+	background-color: #52bad5;
+	border-bottom: 1px solid #2C9AB7;
+}
+
+nav {
+	float: right;
+	width: 50%;
+	text-align: right;
+	margin-right: 25px;
+}
+
+header nav ul {
+	list-style: none;
+	float: right;
+}
+nav ul li {
+	float: left;
+	color: #FFFFFF;
+	font-size: 14px;
+	text-align: left;
+	margin-right: 25px;
+	letter-spacing: 2px;
+	font-weight: bold;
+	transition: all 0.3s linear;
+}
+ul li a {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+ul li:hover a {
+	color: #2C9AB7;
+}
+
+.navUnit {
+	margin-left: 20px;
+	color:#07247F;
+	font-size: 25px;
+	font-weight: 900;
+	border-bottom: 1px dashed #07247F;
+	
+}
+
+.quizLink {
+	margin-left: 10px;
+}
+
+.course a {
+	color: #0E6D8F;
+	text-decoration: none;
+}
+.course a:hover {
+	color: #2C9AB7;
+}
+
+.noStyle {
+	text-decoration:none;
+}
+
+.noStyle h2{
+	color: #2C9AB7;
+}
+
+.noStyle span{
+	color: black;
+	margin-left:20%;
+}
+
+.noStyle h2:hover {
+	color: #0E6D8F;
+}
+
+.sideNav {
+    height: 84%;
+    width: 200px;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color:#E6F0FF;
+    overflow-x: hidden;
+    padding-top: 20px;
+	float:left;
+}
+
+.sideNav a {
+    padding: 6px 6px 6px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+}
+
+.sideNav a:hover {
+    color: #2C9AB7;
+}
+
+.hero_header {
+	color: #FFFFFF;
+	text-align: center;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	letter-spacing: 4px;
+}
+.content_wrapper {
+	width: 80%;
+	margin: 0 auto;
+	height: 1000px;
+}
+
+.container .form_wrapper {
+	width: 80%;
+	margin: 0 auto;
+	height: 500px;
+	;
+}
+
+.header_section {
+	color: #0E6D8F;
+	text-align: left;
+	font-weight: bolder;
+	margin-top: 40px;
+	margin-right: 0px;
+	margin-bottom: 80px;
+	margin-left: 50px;
+	letter-spacing: 4px;
+}
+
+.course_header {
+	color: #0E6D8F;
+	text-align: left;
+	font-weight: bolder;
+	margin-top: 30px;
+	margin-right: 0px;
+	margin-bottom: 30px;
+	margin-left: 50px;
+	letter-spacing: 4px;
+}
+
+#mark {
+	border-color: #0E6D8F;
+    border-radius: 6px;
+    padding: 15px;
+	margin-top: 15px;
+	background-color: #E6F0FF;
+	float: left;
+}
+
+/* Hero Section */
+.hero {
+	background-color: #B3B3B3;
+	padding-top: 250px;
+	padding-bottom: 10px;
+}
+.light {
+	font-weight: bold;
+	color: #717070;
+}
+.tagline {
+	text-align: center;
+	color: #FFFFFF;
+	margin-top: 4px;
+	font-weight: lighter;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+
+.button:hover {
+	background-color: #FEFEFE;
+	color: #C4C4C4;
+	cursor: pointer;
+}
+
+.hidden {
+	display: none;
+}
+
+.centerRight {
+	
+	width: 68%;
+	border: 1px solid #C50D10;
+	float: right;
+	padding: 15px;
+	
+}
+
+.logo {
+	color: #fff;
+	font-weight: bold;
+	text-align: undefined;
+	width: 45%;
+	float: left;
+	margin-top: 15px;
+	margin-left: 25px;
+	letter-spacing: 4px;
+}
+
+
+lable {
+	font-weight: bold;
+}
+.courses h3 {
+	text-decoration: underline;
+}

@@ -1,0 +1,23 @@
+<quiz>
+	<quizTitle>Lesson 2</quizTitle>
+	<questions>
+		<question>
+			<theQuestion>What is an XML namespace?</theQuestion>
+			<answers>
+				<answer questionNumber='3' isCorrect='false'>It is an external document that prevents naming collisions.</answer>
+				<answer questionNumber='3' isCorrect='false'>It is a list of the names of all developers that worked on that file.</answer>
+				<answer questionNumber='3' isCorrect='true'>It is a prefix used to prevent naming collisions.</answer>
+				<answer questionNumber='3' isCorrect='false'>It is a section within the XML document where you list your name.</answer>
+			</answers>
+		</question>
+		<question>
+			<theQuestion>How do you validate an XML document?</theQuestion>
+			<answers>
+				<answer questionNumber='4' isCorrect='false'>Google your entire document, the search engine will tell you if it is isCorrect.</answer>
+				<answer questionNumber='4' isCorrect='true'>Use the W3C Validator.</answer>
+				<answer questionNumber='4' isCorrect='false'>If you believe in a higher power, ask them to look it over.</answer>
+				<answer questionNumber='4' isCorrect='false'>Use the W3X Online XML Validator.</answer>
+			</answers>
+		</question>
+	</questions>
+</quiz>

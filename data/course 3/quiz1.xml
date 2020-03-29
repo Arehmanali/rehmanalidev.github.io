@@ -1,0 +1,80 @@
+<quiz>
+	<quizTitle>Lesson 1</quizTitle>
+	<questions>
+		<question>
+			<theQuestion>What does XML stand for?</theQuestion>
+			<answers>
+				<answer questionNumber='1' isCorrect='false'>Extended Markup Language</answer>
+				<answer questionNumber='1' isCorrect='false'>Exterior Modeling Linguistics</answer>
+				<answer questionNumber='1' isCorrect='false'>Extended Modeling Language</answer>
+				<answer questionNumber='1' isCorrect='true'>Extensible Markup Language</answer>
+			</answers>
+		</question>
+		<question>
+			<theQuestion>What is the root element of an XML document?</theQuestion>
+			<answers>
+				<answer questionNumber='2' isCorrect='true'>It is the element that encompasses all other elements.</answer>
+				<answer questionNumber='2' isCorrect='false'>It is the element that is found only at the end of the document.</answer>
+				<answer questionNumber='2' isCorrect='false'>It is the element that specifies the version of XML being used in the document.</answer>
+				<answer questionNumber='2' isCorrect='false'>It is always in uppercase, and is found at the beginning of the document.</answer>
+			</answers>
+		</question>
+	</questions>
+</quiz>
+
+<quiz>
+	<quizTitle>Lesson 2</quizTitle>
+	<questions>
+		<question>
+			<theQuestion>What is an XML namespace?</theQuestion>
+			<answers>
+				<answer questionNumber='3' isCorrect='false'>It is an external document that prevents naming collisions.</answer>
+				<answer questionNumber='3' isCorrect='false'>It is a list of the names of all developers that worked on that file.</answer>
+				<answer questionNumber='3' isCorrect='true'>It is a prefix used to prevent naming collisions.</answer>
+				<answer questionNumber='3' isCorrect='false'>It is a section within the XML document where you list your name.</answer>
+			</answers>
+		</question>
+		<question>
+			<theQuestion>How do you validate an XML document?</theQuestion>
+			<answers>
+				<answer questionNumber='4' isCorrect='false'>Google your entire document, the search engine will tell you if it is isCorrect.</answer>
+				<answer questionNumber='4' isCorrect='true'>Use the W3C Validator.</answer>
+				<answer questionNumber='4' isCorrect='false'>If you believe in a higher power, ask them to look it over.</answer>
+				<answer questionNumber='4' isCorrect='false'>Use the W3X Online XML Validator.</answer>
+			</answers>
+		</question>
+	</questions>
+</quiz>
+	
+<quiz>
+	<quizTitle>Lesson 3</quizTitle>
+	<questions>
+		<question>
+			<theQuestion>What is a main advantage of XML Schemas over DTD's</theQuestion>
+			<answers>
+				<answer questionNumber='5' isCorrect='false'>XML Schemas are superior in every way.</answer>
+				<answer questionNumber='5' isCorrect='true'>XML Schemas allow you to use data types.</answer>
+				<answer questionNumber='5' isCorrect='false'>XML Schemas are newer, and are therefor better.</answer>
+				<answer questionNumber='5' isCorrect='false'>XML Schemas allow you to style XML data.</answer>
+			</answers>
+		</question>
+		<question>
+			<theQuestion>What does AJAX stand for?</theQuestion>
+			<answers>
+				<answer questionNumber='6' isCorrect='false'>A Journey Across A Xylophone</answer>
+				<answer questionNumber='6' isCorrect='false'>Alternative JavaScript And XML</answer>
+				<answer questionNumber='6' isCorrect='true'>Asynchronous JavaScript And XML</answer>
+				<answer questionNumber='6' isCorrect='false'>Asynchornous Java And XML</answer>
+			</answers>
+		</question>
+		<question>
+			<theQuestion>What is the most important JavaScript object in the world of AJAX?</theQuestion>
+			<answers>
+				<answer questionNumber='7' isCorrect='false'>Document Object Model</answer>
+				<answer questionNumber='7' isCorrect='false'>JavaScriptHttpRequest</answer>
+				<answer questionNumber='7' isCorrect='false'>XMLRequestHttp</answer>
+				<answer questionNumber='7' isCorrect='true'>XMLHttpRequest</answer>
+			</answers>
+		</question>
+	</questions>
+</quiz>

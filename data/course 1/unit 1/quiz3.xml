@@ -1,0 +1,23 @@
+<quiz>
+<quizTitle>Lesson 3</quizTitle>
+<questions>
+	<question>
+  		<theQuestion>Which web server is packaged with Windows?</theQuestion>
+  		<answers>
+	  		<answer questionNumber='1' isCorrect='false'>Apache</answer>
+	  		<answer questionNumber='1' isCorrect='true'>IIS</answer>
+	  		<answer questionNumber='1' isCorrect='false'>Web-Server Elite</answer>
+	  		<answer questionNumber='1' isCorrect='false'>Windows Web Server</answer>
+	  	</answers>
+  	</question>
+	<question>
+  		<theQuestion>What is a downfall of IIS?</theQuestion>
+  		<answers>
+	  		<answer questionNumber='2' isCorrect='false'>It is old and has not been updated in twenty years.</answer>
+	  		<answer questionNumber='2' isCorrect='false'>Is not able to run PHP.</answer>
+	  		<answer questionNumber='2' isCorrect='false'>Also runs on Linux, which is horrendous for security risks due to being open source.</answer>
+	  		<answer questionNumber='2' isCorrect='true'>IIS only runs on Windows, which is prone to security risks.</answer>
+	  	</answers>
+  	</question>
+	</questions>
+</quiz>

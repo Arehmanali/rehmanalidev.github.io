@@ -1,0 +1,32 @@
+<lessonTitle>
+	HTML5 Mini Tutorial pt. 3
+</lessonTitle>
+<lesson>
+<entry>
+<entryTitle>Are HTML5 tags case sensitive?</entryTitle>
+<paragraph>No, they are not, however it is good practice to use only lowercase letters.</paragraph>
+</entry>
+<entry>
+<entryTitle>How do you validate an HTML5 document?</entryTitle>
+<paragraph>HTML5 documents that are syntactically
+correct are guaranteed to render properly
+<br>HTML5 documents that contain syntax errors
+may not display properly
+<br>Validation services (e.g.,
+<image source="http://validator.w3.org/#validate-by-upload">W3C Markup Validation Service</image>
+ensure that an HTML5 document is
+syntactically correct 
+</paragraph>
+</entry>
+<entry>
+<entryTitle>What heading elements does HTML5 provide?</entryTitle>
+<paragraph>HTML5 provides six heading elements (h1
+through h6) for specifying the relative
+importance of information
+<br>Heading element h1 is considered the most
+significant heading and is rendered in the largest
+font.
+<br>Each successive heading element (i.e., h2, h4, etc.)
+is rendered in a progressively smaller font. </paragraph>
+</entry>
+</lesson>

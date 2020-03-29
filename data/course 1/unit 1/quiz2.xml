@@ -1,0 +1,23 @@
+<quiz>
+<quizTitle>Lesson 2</quizTitle>
+<questions>
+<question>
+  		<theQuestion>What is currently the most popular web server?</theQuestion>
+  		<answers>
+	  		<answer questionNumber='2' isCorrect='true'>Apache HTTP Server</answer>
+	  		<answer questionNumber='2' isCorrect='false'>MySQL Database Server</answer>
+	  		<answer questionNumber='2' isCorrect='false'>Windows Internet Information Services</answer>
+	  		<answer questionNumber='2' isCorrect='false'>NGINX</answer>
+	  	</answers>
+  	</question>
+	<question>
+  		<theQuestion>What is the most popular database management system?</theQuestion>
+  		<answers>
+	  		<answer questionNumber='3' isCorrect='false'>YourSequel</answer>
+	  		<answer questionNumber='3' isCorrect='false'>XMLPHP</answer>
+	  		<answer questionNumber='3' isCorrect='true'>MySQL</answer>
+	  		<answer questionNumber='3' isCorrect='false'>Oracle</answer>
+	  	</answers>
+  	</question>
+	</questions>
+</quiz>

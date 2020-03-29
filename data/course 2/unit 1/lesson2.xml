@@ -1,0 +1,20 @@
+<lessonTitle>
+	Javascript Mini Tutorial pt. 2
+</lessonTitle>
+<lesson>
+<entry>
+<entryTitle>What is the difference between the write and the writeln statement in JavaScript?</entryTitle>
+<paragraph>Method write displays a string like writeln,
+but does not position the output cursor in the
+HTML5 document at the beginning of the
+next line after writing its argument.</paragraph>
+</entry>
+<entry>
+<entryTitle>In JavaScript, how do you get input from a user?</entryTitle>
+<paragraph>
+The prompt() method displays a dialog box that prompts the visitor for input. A prompt box is often used if you want the user 
+to input a value before entering a page. Note: When a prompt box pops up, the user will have to click either "OK" or "Cancel" to 
+proceed after entering an input value.
+</paragraph>
+</entry>
+</lesson>

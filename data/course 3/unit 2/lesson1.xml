@@ -1,0 +1,18 @@
+<courseTitle>
+	XML pt. 4
+</courseTitle>
+<lesson>
+<entry>
+<entryTitle>What are XML namespaces? Why are namespaces used in XML documents?</entryTitle>
+<paragraph>XML namespaces provide a means for document authors to
+prevent naming collisions
+<br>Each namespace prefix is bound to a uniform resource
+identifier (URI) that uniquely identifies the namespace</paragraph>
+</entry>
+<entry>
+<entryTitle>If you have written an XML document, how do you check whether it is valid or not?</entryTitle>
+<paragraph>An XML document that conforms to a schema document is
+schema valid
+</paragraph>
+</entry>
+</lesson>

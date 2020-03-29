@@ -1,0 +1,23 @@
+<quiz>
+<quizTitle>Lesson 1</quizTitle>
+<questions>
+	<question>
+  		<theQuestion>What new features have been introduced in CSS3?</theQuestion>
+  		<answers>
+	  		<answer questionNumber='1' isCorrect='false'>New DOM.</answer>
+	  		<answer questionNumber='1' isCorrect='true'>New Combinator, New CSS Selectors, New Pseudo-elements.</answer>
+	  		<answer questionNumber='1' isCorrect='false'>New Elements, new CSS Selectors, New Calculator.</answer>
+	  		<answer questionNumber='1' isCorrect='false'>New Syntax, New Elements, New DOM.</answer>
+	  	</answers>
+  	</question>
+	<question>
+  		<theQuestion>How do add a text shadow using CSS3?</theQuestion>
+  		<answers>
+	  		<answer questionNumber='2' isCorrect='false'>Create a div behind the text and set the transparancy to desired shadow intensity.</answer>
+	  		<answer questionNumber='2' isCorrect='false'>Using shadow-text.</answer>
+	  		<answer questionNumber='2' isCorrect='true'>Using text-shadow.</answer>
+	  		<answer questionNumber='2' isCorrect='false'>Using text-background-colour: shadow;</answer>
+	  	</answers>
+  	</question>
+	</questions>
+</quiz>
